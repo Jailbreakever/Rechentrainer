@@ -1,5 +1,5 @@
 ﻿#   Rechentrainer
-Developed in order of school.
+Developed in order of school.    
 Contact: Jailbreakever
 
 ## Product description
@@ -10,7 +10,7 @@ There are three levels which adjust the difficulty of the calculation.
 
 ## Developer Team
 - Jailbreakever								    (main programmer)
-- Philippe Krüttli 								(help and issue solving)
+- [Philippe Krüttli]: https://github.com/kruettlip 								(help and issue solving)
 
 ## Releases
 02.06.2017			V1.0	First Release (delivery at school)    
